@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://tr1gv0n.github.io/categories/</loc>
-  </url><url>
-    <loc>https://tr1gv0n.github.io/</loc>
-  </url><url>
-    <loc>https://tr1gv0n.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://tr1gv0n.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://tr1gv0n.github.io/de/sitemap.xml</loc>
+    
+      <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://tr1gv0n.github.io/dy/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
